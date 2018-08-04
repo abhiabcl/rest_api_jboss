@@ -1,0 +1,12 @@
+com\ericsson\jboss\api\rest\entity\CallEventNotification.class
+com\ericsson\jboss\api\rest\entity\CallerInfo.class
+com\ericsson\jboss\api\rest\entity\Link.class
+com\ericsson\jboss\api\rest\entity\RootObject.class
+com\ericsson\jboss\api\rest\MessageApplication.class
+com\ericsson\jboss\api\rest\entity\Action.class
+com\ericsson\jboss\api\rest\entity\RootObjResp.class
+com\ericsson\jboss\api\rest\entity\UserData.class
+com\ericsson\jboss\api\rest\entity\EventDescription.class
+com\ericsson\jboss\api\rest\dao\ApiEnablerDao.class
+com\ericsson\jboss\api\rest\HelloWorldService.class
+com\ericsson\jboss\api\rest\Notifications.class
